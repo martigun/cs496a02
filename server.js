@@ -1,6 +1,8 @@
 //https://www.youtube.com/watch?v=kHV7gOHvNdk
 //MEAN Tutorial Part 1
 
+//I added this comment
+
 //the server is on the "back end"
 // it sits and listens
 //writing to console here writes it to the cmd prompt
